@@ -1,0 +1,18 @@
+Enter the first number a= 10
+Enter the second number b= 20
+choose from the following operations: +,-,*,/,% =   +
+RESULT: 
+30
+CONTINUE CALCULATION? Y or N:   Y
+Enter the first number a= 20
+Enter the second number b= 30
+choose from the following operations: +,-,*,/,% =   -
+RESULT: 
+-10
+CONTINUE CALCULATION? Y or N:   Y
+Enter the first number a= 40
+Enter the second number b= 2
+choose from the following operations: +,-,*,/,% =   *
+RESULT: 
+80
+CONTINUE CALCULATION? Y or N:   N
