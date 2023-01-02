@@ -1,1 +1,23 @@
+a=input("Enter first number")
+b=input("Enter second number")
+print("1:ADD  2:SUBSTRACTION 3:DIVISION   4:MULTIPLICATION    5:POWER ")
+c='y'
+while c=='y':
+     o=input("Enter option")
+     if o==1:
+        print(a+b)
+        break
+     elif o==2:
+        print(a-b)
+        break
+     elif o==3:
+        print(a/b)
+        break
+     elif o==4:
+        print(a*b)
+        break
+     elif o==5:
+        print(a**b)
+        break
+     c=input("Continue?(y/n)")
 
