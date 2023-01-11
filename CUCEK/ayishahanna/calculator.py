@@ -1,8 +1,8 @@
 print("_MINI CALCULATOR_")
 while True:
-  print("select an option")    
-  print("1.add")
-  print("2.subtrat")
+  print("select an option":)    
+  print("1.add:")
+  print("2.subtrat:")
   print("3.multiply")
   print("4.divide")
   print("5.exit")
