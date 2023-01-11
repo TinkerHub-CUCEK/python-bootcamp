@@ -1,4 +1,4 @@
-print("MINI CALCULATOR")
+print("_MINI CALCULATOR_")
 while True:
   print("select an option")    
   print("1.add")
